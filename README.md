@@ -17,8 +17,8 @@ Reduce risk from vendor over-dependence
 📄 PDF Report summarizing business recommendations
 
 🛠️ Tools & Tech Stack
-Python – Pandas , SQLAlchemy
-SSMS – CTEs, joins, aggregations, SQL
-Power BI – Dashboarding & visual storytelling
-Jupyter Notebooks – EDA & analysis
-PDF – Final stakeholder-ready documentation
+ Python – Pandas , SQLAlchemy
+ SSMS – CTEs, joins, aggregations, SQL
+ Power BI – Dashboarding & visual storytelling
+ Jupyter Notebooks – EDA & analysis
+ PDF – Final stakeholder-ready documentation
