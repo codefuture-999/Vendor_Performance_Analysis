@@ -16,7 +16,7 @@ A complete end-to-end data analysis pipeline to evaluate and optimize vendor and
 * 📑 Power BI Dashboard for executive-level visibility
 * 📄 PDF Report summarizing business recommendations
 
-🛠️ Tools & Tech Stack
+# 🛠️ Tools & Tech Stack
  * Python – Pandas , SQLAlchemy
  * SSMS – CTEs, joins, aggregations, SQL
  * Power BI – Dashboarding & visual storytelling
