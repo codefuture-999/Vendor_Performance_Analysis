@@ -10,15 +10,15 @@ A complete end-to-end data analysis pipeline to evaluate and optimize vendor and
 
 # 🚀 Key Highlights
 
-📊 SQL-based Summary Metrics for vendor performance Using SSMS.
-📈 Exploratory Data Analysis with outlier detection & insights Using Python.
-📉 Profitability Analysis using Gross Profit, Margins, Turnover, etc.
-📑 Power BI Dashboard for executive-level visibility
-📄 PDF Report summarizing business recommendations
+* 📊 SQL-based Summary Metrics for vendor performance Using SSMS.
+* 📈 Exploratory Data Analysis with outlier detection & insights Using Python.
+* 📉 Profitability Analysis using Gross Profit, Margins, Turnover, etc.
+* 📑 Power BI Dashboard for executive-level visibility
+* 📄 PDF Report summarizing business recommendations
 
 🛠️ Tools & Tech Stack
- Python – Pandas , SQLAlchemy
- SSMS – CTEs, joins, aggregations, SQL
- Power BI – Dashboarding & visual storytelling
- Jupyter Notebooks – EDA & analysis
- PDF – Final stakeholder-ready documentation
+ * Python – Pandas , SQLAlchemy
+ * SSMS – CTEs, joins, aggregations, SQL
+ * Power BI – Dashboarding & visual storytelling
+ * Jupyter Notebooks – EDA & analysis
+ * PDF – Final stakeholder-ready documentation
