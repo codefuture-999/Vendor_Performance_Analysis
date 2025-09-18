@@ -2,7 +2,7 @@
 A complete end-to-end data analysis pipeline to evaluate and optimize vendor and inventory performance in a retail environment using Python, SQL, Power BI, and statistical methods.
 
 # 🧾 Business Objectives
-Identify underperforming brands for strategic action
+. Identify underperforming brands for strategic action
 Pinpoint vendors with low stock turnover or losses
 Leverage bulk purchasing insights to reduce unit cost
 Validate profitability differences statistically between vendor tiers
